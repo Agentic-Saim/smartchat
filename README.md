@@ -1,4 +1,4 @@
-# SmartChat: A Personal AI Assistant
+﻿# SmartChat: A Personal AI Assistant
 
 ## Introduction
 
@@ -44,7 +44,7 @@ Refine AI models to meet your specific needs by uploading training data and sele
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/m-shamim09/smartchat
+   git clone https://github.com/agentic-saim09/smartchat
    cd smartchat
    ```
 
@@ -118,8 +118,8 @@ This project is licensed under the Apache2.0 License - see the [LICENSE](LICENSE
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
